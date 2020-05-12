@@ -6,4 +6,3 @@ removeLast.push('Odie');
 function removefirst(arr){
   arr.shift();
 }
-
