@@ -3,3 +3,4 @@ const prepend =[];
 const removeLast = ['Milo', 'Otis'];
 removeLast.push('Garfield');
 removeLast.unshift('Odie');
+const removefirst = [];
